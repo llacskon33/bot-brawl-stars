@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bot Brawl Stars</string>
+    <string name="start_button">Iniciar</string>
+    <string name="stop_button">Detener</string>
+    <string name="status_stopped">Estado: Detenido</string>
+    <string name="status_running">Estado: En ejecución</string>
+</resources>
