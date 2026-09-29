@@ -1,0 +1,7 @@
+.gradle
+/build
+/app/build/generated
+/app/build/intermediates
+/app/build/tmp
+/app/build/reports
+
